@@ -24,7 +24,6 @@ Download the .zip and compile the files of each exercise using the following com
 
 ```
 $ make heatSim
-
 ```
 which should create the executable file 'heatSim'.
 
@@ -66,4 +65,4 @@ The library used in the project was given by the teachers of the course.
 
 ## Evaluation
 
-18.57/20 
+18.57/20
