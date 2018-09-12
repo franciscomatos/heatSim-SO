@@ -65,4 +65,4 @@ The library used in the project was given by the teachers of the course.
 
 ## Evaluation
 
-18.57/20
+19/20
