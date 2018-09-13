@@ -58,6 +58,7 @@ These arguments have the following purpose:
 ## Authors
 
 * Francisco Matos
+* Daniela Lopes
 
 ## Acknowledgments
 
